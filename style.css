@@ -1,0 +1,69 @@
+/* Main */
+
+html, body {
+	background-color: #000 !important;
+}
+
+.site-header {
+  background-color: #000 !important;
+  border-bottom: 1px solid #333 !important;
+}
+
+.content {
+  background-color: #000 !important;
+}
+
+.content h1, h2 {
+  color: #fff !important;
+}
+
+.content h1, .content h2, .content h3, .content h4, .content h5, .content h6 {
+  color: #C74534 !important;
+}
+
+.content p, .content li, .content dt, .content dd {
+  color: #fff !important;
+}
+
+.content aside {
+	background: #141414 !important;
+}
+
+.content table td {
+  color: #909090 !important;
+	border-top: 1px solid #1b1b1b !important;
+}
+
+.content table td em {
+	color: #515151 !important;
+}
+
+.toc-link, .toc-footer li {
+  color: #909090;
+}
+
+.toc-wrapper .toc-link.active {
+  background-color: #000 !important;
+	color: #C74534 !important;
+}
+
+.toc-wrapper .toc-link.active-parent {
+  background-color: #000 !important;
+  color: #fff !important;
+}
+
+.toc-wrapper .toc-list-h2, .toc-wrapper .toc-list-h3 {
+  background-color: #000 !important;
+}
+
+.toc-wrapper>.search input {
+  background: #000 !important
+	border: 1px solid #515151;
+}
+
+
+/* Code Blocks */
+
+.highlight .s1 {
+  color: #668fb1 !important;
+}
