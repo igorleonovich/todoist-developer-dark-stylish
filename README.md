@@ -4,7 +4,7 @@ This theme can be used by [Stylish](https://userstyles.org/)
 
 ![](./readme-resources/1.png)
 
-https://github.com/igorleonovich/todoistdeveloper-dark-stylish/assets/8408481/2052b3ea-cfe8-4a79-b0be-8811c1e22403
+https://github.com/igorleonovich/todoist-developer-dark-stylish/assets/8408481/354b1a32-112f-4726-9681-03caaef7fb65
 
 ### To Do:
 * Darken scrollbar
