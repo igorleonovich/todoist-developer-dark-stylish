@@ -39,7 +39,7 @@ html, body {
 }
 
 .toc-link, .toc-footer li {
-	color: #909090 !important;
+	color: #909090;
 }
 
 .toc-wrapper .toc-link.active {
