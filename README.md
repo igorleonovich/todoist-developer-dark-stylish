@@ -1,6 +1,7 @@
 # Todoist Developer Dark (Stylish Theme)
 
 This theme can be used by [Stylish](https://userstyles.org/)
+
 Applied to [developer.todoist.com](https://developer.todoist.com)
 
 ![](./readme-resources/1.png)
